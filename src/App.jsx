@@ -1,12 +1,14 @@
+import React from 'react';
+
 // Components
 import Landing from './components/Landing';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <Landing />
     </div>
   );
-}
+};
 
 export default App;

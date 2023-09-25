@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Gif
-import spinner from "../gif/spinner.gif"
+import spinner from "../gif/spinner.gif";
 
 const Loader = () => {
     return (
