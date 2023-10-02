@@ -11,7 +11,8 @@
 }
 
 .dark {
-  --color-bg-primary: #2d3748;
+  /* --color-bg-primary: #4a4644; */
+  /* --color-bg-secondary: #d4d4d4; */
   --color-bg-primary: #2d3748;
   --color-bg-secondary: #283141;
   --color-text-primary: #dbdbdb;
