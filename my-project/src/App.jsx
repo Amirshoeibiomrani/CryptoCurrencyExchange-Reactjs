@@ -1,11 +1,13 @@
 import React from 'react';
+import Navbar from './components/Navbar';
+import { ThemeProvider } from './context/ThemeContext';
 
-const n = () => {
+const App = () => {
   return (
-    <div>
-      
-    </div>
+    <ThemeProvider>
+      <Navbar />
+    </ThemeProvider>
   );
 };
 
-export default n;
+export default App;

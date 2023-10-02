@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-type Props = {}
-
-export default function Account({}: Props) {
+const Account = () => {
   return (
-    <div>Account</div>
-  )
-}
+    <div>
+      Account
+    </div>
+  );
+};
+
+export default Account;
