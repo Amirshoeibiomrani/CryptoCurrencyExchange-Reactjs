@@ -11,23 +11,22 @@
 }
 
 .dark {
-  /* --color-bg-primary: #4a4644; */
-  /* --color-bg-secondary: #d4d4d4; */
-  --color-bg-primary: #2d3748;
-  --color-bg-secondary: #283141;
-  --color-text-primary: #dbdbdb;
-  --color-text-secondary: #e2e8f0;
-  --color-text-accent: #81e6d9;
-  --color-bg-input: #4a5361;
-  --color-bg-button: #81e6d9;
+
+  --color-bg-primary: #4d083f;
+  --color-bg-secondary: #44034e;
+  --color-text-primary: #efbee9;
+  --color-text-secondary: #2c2a2a;
+  --color-text-accent: #000000;
+  --color-bg-input: #efbee9;
+  --color-bg-button: #efbee9;
 }
 
 .light {
   --color-bg-primary: #ffffff;
-  --color-bg-secondary: #edf2f7;
-  --color-text-primary: #2d3748;
-  --color-text-secondary: #4a5568;
-  --color-text-accent: #2b6cb0;
-  --color-bg-input: #edf2f7;
-  --color-bg-button: #2b6cb0;
+  --color-bg-secondary: #efbee9;
+  --color-text-primary: #44034e;
+  --color-text-secondary: #44034e;
+  --color-text-accent: #c543b5;
+  --color-bg-input: #efbee9;
+  --color-bg-button: #4d083f;
 }
