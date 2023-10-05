@@ -10,7 +10,6 @@ import axios from 'axios';
 import CoinPage from './routes/CoinPage';
 import Footer from './components/Footer';
 
-
 const App = () => {
 const [coins, setCoins] = useState([]);
 
